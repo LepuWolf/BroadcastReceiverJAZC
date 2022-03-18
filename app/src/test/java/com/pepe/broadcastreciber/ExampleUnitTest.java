@@ -1,4 +1,4 @@
-package net.ivanvega.mibroadcastreceiverytelefonia;
+package com.pepe.broadcastreciber;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package net.ivanvega.mibroadcastreceiverytelefonia;
+package com.pepe.broadcastreciber;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("net.ivanvega.mibroadcastreceiverytelefonia", appContext.getPackageName());
+        assertEquals("com.pepe.broadcastreciber", appContext.getPackageName());
     }
 }
